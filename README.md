@@ -5,6 +5,9 @@ This is for use with [Sense hat B](https://www.waveshare.com/wiki/Sense_HAT_(B))
 ## Instructions:
 
 Install:
+
+Follow instructions to enable I2C [Here](https://www.waveshare.com/wiki/Sense_HAT_(B)#Open_I2C_Interface)
+
 ```
 sudo apt update
 
